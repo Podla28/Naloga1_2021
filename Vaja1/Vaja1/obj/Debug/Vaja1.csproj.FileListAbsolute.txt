@@ -77,3 +77,7 @@ E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK
 E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\obj\Debug\Vaja1.csproj.CopyComplete
 E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\obj\Debug\Vaja1.dll
 E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\obj\Debug\Vaja1.pdb
+E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\bin\EntityFramework.dll
+E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\bin\EntityFramework.SqlServer.dll
+E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\bin\EntityFramework.xml
+E:\JAKA\OneDrive - Solski center Nova Gorica\ŠOLANJE\Višja_Šola_2020\2.LETNIK\RPA\Naloga1_2021\Vaja1\Vaja1\bin\EntityFramework.SqlServer.xml
