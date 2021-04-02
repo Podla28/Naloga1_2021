@@ -1,0 +1,25 @@
+﻿
+
+<h1>Podla28 Razor</h1>
+@*inline sintaksa brez ;*@
+<h2>@DateTime.Now.ToShortDateString()</h2>
+@* koda c# v več vrsticah *@
+@{ 
+    var datum = DateTime.Now.ToLongTimeString();
+    var sporcilo = "jaka king";
+
+}
+
+<h2>Ura je: @datum</h2>
+<h3>@sporcilo</h3>
+<br />
+<br/>
+@* html znotraj c# *@
+@{ 
+    var datum1 = DateTime.Now.ToLongDateString();
+    var m = "drugic jaka king";
+    <text>Danes je: </text> @datum1 <br/>
+    @m
+
+}
+
